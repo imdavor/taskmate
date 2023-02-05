@@ -6,7 +6,6 @@ export const App = () => {
         <>
             Pozdrav iz App.jsx komponente!
             <ClassComponent />
-            <FuncComponent />
         </>
     );
 };
